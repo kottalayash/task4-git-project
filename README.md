@@ -1,3 +1,7 @@
+## Version
+
+Task 4 Version 1.0
+
 # Task 4 - Version-Controlled DevOps Project
 
 ## Objective
